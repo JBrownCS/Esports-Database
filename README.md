@@ -10,3 +10,5 @@ Be sure to execute the files in this order:
 2. Procedures Script
 3. Update Tables Script
 4. Analysis Script
+
+Video Demonstration: https://youtube.com/watch?v=7Ph4iRGB0Xo
